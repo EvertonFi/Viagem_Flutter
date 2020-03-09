@@ -1,16 +1,11 @@
-# videosaulas
+# Layout de APP de Viagens
 
-A new Flutter project.
+Esse é um projeto desenvolvido em Dart e Flutter para demostrar como podemos utilizar os recursos simples para fazer algo agradavel.
 
-## Getting Started
+## Como foi desenvolvido
 
-This project is a starting point for a Flutter application.
+O projeto foi desenvolvido para mostrar como podemos fazer um Layout simples com poucos elementos.
 
-A few resources to get you started if this is your first Flutter project:
+Quando finalizado chegamos ao seguinte resultado.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ![]https://raw.githubusercontent.com/EvertonFi/Viagem_Flutter/master/assets/img/App.png
