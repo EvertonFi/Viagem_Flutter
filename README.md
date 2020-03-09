@@ -8,4 +8,4 @@ O projeto foi desenvolvido para mostrar como podemos fazer um Layout simples com
 
 Quando finalizado chegamos ao seguinte resultado.
 
- ![]https://raw.githubusercontent.com/EvertonFi/Viagem_Flutter/master/assets/img/App.png
+ ![](https://raw.githubusercontent.com/EvertonFi/Viagem_Flutter/master/assets/img/App.png)
